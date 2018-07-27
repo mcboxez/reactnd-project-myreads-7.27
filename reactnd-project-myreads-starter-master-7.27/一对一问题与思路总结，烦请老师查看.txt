@@ -1,0 +1,9 @@
+已做：现在只做了获取“getAll” API这步基本操作；
+
+剩余工作想法：
+
+将app.js中，render部分的详细代码拆分为ListBooks,SearchBooks两部分，
+
+1.创建ListBooks.js,该文档已尝试编写代码，但估计有不少问题，烦请老师查阅后提出修改和建议。
+2.创建SearchBooks.js,
+
